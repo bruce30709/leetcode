@@ -12,5 +12,6 @@ medium:
 Longest Substring with At Least K Repeating Characters:https://hackmd.io/@bruce30709/SJdQGj5ku  
 Shuffle an Array:https://hackmd.io/@bruce30709/S1lKEs5J  
 Insert Delete GetRandom:https://hackmd.io/@bruce30709/HygG7n51O  
+Kth Smallest Element in a Sorted Matrix:https://hackmd.io/@bruce30709/S17MXVnyu  
 
 hard:  
