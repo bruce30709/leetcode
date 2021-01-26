@@ -8,6 +8,7 @@ First Unique Character in a String:https://hackmd.io/@bruce30709/Sk8LNsck
 Intersection of Two Arrays II:https://hackmd.io/@bruce30709/SJBNwlnkO  
 
 medium:  
+Top K Frequent Elements:https://hackmd.io/@bruce30709/ry40-96Ju  
 Sum of Two Integers:https://hackmd.io/@bruce30709/Skkdz8aJd  
 4Sum II:https://hackmd.io/@bruce30709/SJOD5c9Ju  
 Longest Substring with At Least K Repeating Characters:https://hackmd.io/@bruce30709/SJdQGj5ku  
