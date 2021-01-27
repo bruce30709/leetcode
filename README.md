@@ -3,6 +3,7 @@
 record my leetcode solution
 
 easy:  
+Reverse String:https://hackmd.io/@bruce30709/SJSVI5A1O  
 Fizz Buzz:https://hackmd.io/@bruce30709/rkuYkocJO  
 First Unique Character in a String:https://hackmd.io/@bruce30709/Sk8LNsck  
 Intersection of Two Arrays II:https://hackmd.io/@bruce30709/SJBNwlnkO  
