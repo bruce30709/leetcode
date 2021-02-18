@@ -10,6 +10,7 @@ First Unique Character in a String:https://hackmd.io/@bruce30709/Sk8LNsck
 Intersection of Two Arrays II:https://hackmd.io/@bruce30709/SJBNwlnkO  
 
 medium:  
+Game of Life:https://hackmd.io/@bruce30709/r1mzlisbd  
 Longest Increasing Subsequence:https://hackmd.io/@bruce30709/rk0mxUYxd  
 Coin Change:https://hackmd.io/@bruce30709/SkDu61Oeu  
 Odd Even Linked List:https://hackmd.io/@bruce30709/SJxHmqIxO  
