@@ -3,6 +3,7 @@
 record my leetcode solution
 
 easy:  
+Move Zeroes:https://hackmd.io/@bruce30709/rJ7t0rC-d  
 Power of Three:https://hackmd.io/@bruce30709/HJun8SIxO  
 Reverse String:https://hackmd.io/@bruce30709/SJSVI5A1O  
 Fizz Buzz:https://hackmd.io/@bruce30709/rkuYkocJO  
@@ -10,6 +11,7 @@ First Unique Character in a String:https://hackmd.io/@bruce30709/Sk8LNsck_
 Intersection of Two Arrays II:https://hackmd.io/@bruce30709/SJBNwlnkO  
 
 medium:  
+Inorder Successor in BST:https://hackmd.io/@bruce30709/Sk1ltSRb_  
 Find the Duplicate Number:https://hackmd.io/@bruce30709/S1tKcXTbd  
 Game of Life:https://hackmd.io/@bruce30709/r1mzlisbd  
 Longest Increasing Subsequence:https://hackmd.io/@bruce30709/rk0mxUYxd  
