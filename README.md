@@ -11,6 +11,7 @@ First Unique Character in a String:https://hackmd.io/@bruce30709/Sk8LNsck_
 Intersection of Two Arrays II:https://hackmd.io/@bruce30709/SJBNwlnkO  
 
 medium:  
+Perfect Squares:https://hackmd.io/@bruce30709/BJHYMjkGd  
 Inorder Successor in BST:https://hackmd.io/@bruce30709/Sk1ltSRb_  
 Find the Duplicate Number:https://hackmd.io/@bruce30709/S1tKcXTbd  
 Game of Life:https://hackmd.io/@bruce30709/r1mzlisbd  
