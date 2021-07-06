@@ -12,6 +12,7 @@ First Unique Character in a String:https://hackmd.io/@bruce30709/Sk8LNsck_
 Intersection of Two Arrays II:https://hackmd.io/@bruce30709/SJBNwlnkO  
 
 medium:  
+Flatten 2D Vector:https://hackmd.io/@bruce30709/ryBf6ubTO  
 Meeting Rooms II:https://hackmd.io/@bruce30709/BJ9maelTu  
 Wiggle Sort II:https://hackmd.io/@bruce30709/HyJdbdNVd  
 Find the Celebrity:https://hackmd.io/@bruce30709/S1KlpXUG_  
