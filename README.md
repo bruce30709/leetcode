@@ -34,6 +34,7 @@ Insert Delete GetRandom:https://hackmd.io/@bruce30709/HygG7n51O
 Kth Smallest Element in a Sorted Matrix:https://hackmd.io/@bruce30709/S17MXVnyu  
 
 hard:  
+Count of Smaller Numbers After Self:https://hackmd.io/@bruce30709/HJ5td6GaO  
 Find Median from Data Stream:https://hackmd.io/@bruce30709/HJIdFLqb_  
 Serialize and Deserialize Binary Tree:https://hackmd.io/@bruce30709/rJN5PTcxu  
 Range Sum Query 2D - Mutable:https://hackmd.io/@bruce30709/B1bdhGFlO  
