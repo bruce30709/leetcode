@@ -3,6 +3,7 @@
 record my leetcode solution
 
 easy:  
+Delete Node in a Linked List:https://hackmd.io/@bruce30709/BksRZ126O  
 Valid Anagram:https://hackmd.io/@bruce30709/SkE14GEad  
 Missing Number:https://hackmd.io/@bruce30709/B1dnfZ2h_  
 Move Zeroes:https://hackmd.io/@bruce30709/rJ7t0rC-d  
