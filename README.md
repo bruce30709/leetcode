@@ -16,6 +16,7 @@ First Unique Character in a String:https://hackmd.io/@bruce30709/Sk8LNsck_
 Intersection of Two Arrays II:https://hackmd.io/@bruce30709/SJBNwlnkO  
 
 medium:  
+Course Schedule II:https://hackmd.io/@bruce30709/SJyycLaRO  
 Kth Largest Element in an Array:https://hackmd.io/@bruce30709/Sy8E_JnCO  
 Basic Calculator II:https://hackmd.io/@bruce30709/SyHscJdR_  
 Kth Smallest Element in a BST:https://hackmd.io/@bruce30709/r193jqzA_  
