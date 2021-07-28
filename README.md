@@ -3,6 +3,7 @@
 record my leetcode solution
 
 easy:  
+Reverse Linked List:
 Contains Duplicate:https://hackmd.io/@bruce30709/SyuIE070_  
 Palindrome Linked List:https://hackmd.io/@bruce30709/BJWo6QTp_  
 Delete Node in a Linked List:https://hackmd.io/@bruce30709/BksRZ126O  
