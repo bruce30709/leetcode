@@ -3,7 +3,7 @@
 record my leetcode solution
 
 easy:  
-Reverse Linked List:
+Reverse Linked List:https://hackmd.io/@bruce30709/SJiLZ1k1t  
 Contains Duplicate:https://hackmd.io/@bruce30709/SyuIE070_  
 Palindrome Linked List:https://hackmd.io/@bruce30709/BJWo6QTp_  
 Delete Node in a Linked List:https://hackmd.io/@bruce30709/BksRZ126O  
@@ -17,6 +17,7 @@ First Unique Character in a String:https://hackmd.io/@bruce30709/Sk8LNsck_
 Intersection of Two Arrays II:https://hackmd.io/@bruce30709/SJBNwlnkO  
 
 medium:  
+Implement Trie (Prefix Tree):https://hackmd.io/@bruce30709/B1GmApkyY  
 Course Schedule II:https://hackmd.io/@bruce30709/SJyycLaRO  
 Kth Largest Element in an Array:https://hackmd.io/@bruce30709/Sy8E_JnCO  
 Basic Calculator II:https://hackmd.io/@bruce30709/SyHscJdR_  
