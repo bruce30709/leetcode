@@ -17,6 +17,7 @@ First Unique Character in a String:https://hackmd.io/@bruce30709/Sk8LNsck_
 Intersection of Two Arrays II:https://hackmd.io/@bruce30709/SJBNwlnkO  
 
 medium:  
+Number of Islands:https://hackmd.io/@bruce30709/SyiITXryF  
 Course Schedule:https://hackmd.io/@bruce30709/rkTXuN-JY  
 Implement Trie (Prefix Tree):https://hackmd.io/@bruce30709/B1GmApkyY  
 Course Schedule II:https://hackmd.io/@bruce30709/SJyycLaRO  
