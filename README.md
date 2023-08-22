@@ -3,7 +3,7 @@
 record my leetcode solution
 
 easy:  
-21. Merge Two Sorted Lists: https://hackmd.io/@bruce30709/HkHDsoosh  
+Merge Two Sorted Lists: https://hackmd.io/@bruce30709/HkHDsoosh  
 Reverse Linked List:https://hackmd.io/@bruce30709/SJiLZ1k1t  
 Contains Duplicate:https://hackmd.io/@bruce30709/SyuIE070_  
 Palindrome Linked List:https://hackmd.io/@bruce30709/BJWo6QTp_  
@@ -18,7 +18,7 @@ First Unique Character in a String:https://hackmd.io/@bruce30709/Sk8LNsck_
 Intersection of Two Arrays II:https://hackmd.io/@bruce30709/SJBNwlnkO  
 
 medium:  
-22. Generate Parentheses: https://hackmd.io/@bruce30709/rJWnciiih  
+Generate Parentheses: https://hackmd.io/@bruce30709/rJWnciiih  
 Rotate Array:https://hackmd.io/@bruce30709/HJn2IpDJF  
 House Robber:https://hackmd.io/@bruce30709/BJgFM381Y  
 Number of Islands:https://hackmd.io/@bruce30709/SyiITXryF  
