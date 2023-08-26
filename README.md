@@ -18,6 +18,7 @@ First Unique Character in a String:https://hackmd.io/@bruce30709/Sk8LNsck_
 Intersection of Two Arrays II:https://hackmd.io/@bruce30709/SJBNwlnkO  
 
 medium:  
+Flatten Nested List Iterator:https://hackmd.io/@bruce30709/r1CsjXvTn
 Generate Parentheses: https://hackmd.io/@bruce30709/rJWnciiih  
 Rotate Array:https://hackmd.io/@bruce30709/HJn2IpDJF  
 House Robber:https://hackmd.io/@bruce30709/BJgFM381Y  
