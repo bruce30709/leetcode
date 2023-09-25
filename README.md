@@ -3,6 +3,8 @@
 record my leetcode solution
 
 easy:  
+Reverse Bits: https://hackmd.io/@bruce30709/S1NAIVyx6  
+Number of 1 Bits: https://hackmd.io/@bruce30709/SkoaSNkx6  
 Merge Two Sorted Lists: https://hackmd.io/@bruce30709/HkHDsoosh  
 Reverse Linked List:https://hackmd.io/@bruce30709/SJiLZ1k1t  
 Contains Duplicate:https://hackmd.io/@bruce30709/SyuIE070_  
