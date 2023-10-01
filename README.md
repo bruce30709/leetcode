@@ -3,7 +3,7 @@
 record my leetcode solution
 
 easy:  
-Excel Sheet Column Number: https://hackmd.io/@bruce30709/BkbzDOVgp
+Excel Sheet Column Number: https://hackmd.io/@bruce30709/BkbzDOVgp  
 Reverse Bits: https://hackmd.io/@bruce30709/S1NAIVyx6  
 Number of 1 Bits: https://hackmd.io/@bruce30709/SkoaSNkx6  
 Merge Two Sorted Lists: https://hackmd.io/@bruce30709/HkHDsoosh  
