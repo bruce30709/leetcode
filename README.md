@@ -3,6 +3,7 @@
 record my leetcode solution
 
 easy:  
+Finding the Intersection of Two Linked Lists using Two Pointers:https://hackmd.io/@bruce30709/rk3lW9Ix6  
 Excel Sheet Column Number: https://hackmd.io/@bruce30709/BkbzDOVgp  
 Reverse Bits: https://hackmd.io/@bruce30709/S1NAIVyx6  
 Number of 1 Bits: https://hackmd.io/@bruce30709/SkoaSNkx6  
