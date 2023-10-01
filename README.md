@@ -21,7 +21,7 @@ First Unique Character in a String:https://hackmd.io/@bruce30709/Sk8LNsck_
 Intersection of Two Arrays II:https://hackmd.io/@bruce30709/SJBNwlnkO  
 
 medium:  
-Fraction to Recurring Decimal:https://hackmd.io/@bruce30709/HkhEWOLga
+Fraction to Recurring Decimal:https://hackmd.io/@bruce30709/HkhEWOLga  
 Count Primes:https://hackmd.io/@bruce30709/H1giMy8yT  
 Flatten Nested List Iterator:https://hackmd.io/@bruce30709/r1CsjXvTn  
 Generate Parentheses: https://hackmd.io/@bruce30709/rJWnciiih  
