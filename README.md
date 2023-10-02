@@ -3,6 +3,7 @@
 record my leetcode solution
 
 easy:  
+Missing Ranges:https://hackmd.io/@bruce30709/HkqrLLOeT  
 Intersection of Two Linked Lists:https://hackmd.io/@bruce30709/rk3lW9Ix6  
 Excel Sheet Column Number: https://hackmd.io/@bruce30709/BkbzDOVgp  
 Reverse Bits: https://hackmd.io/@bruce30709/S1NAIVyx6  
