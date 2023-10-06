@@ -1,70 +1,68 @@
-###### tags: `leetcode`
-# leetcode
-record my leetcode solution
+**LeetCode Solutions**
 
-easy:  
-Missing Ranges:https://hackmd.io/@bruce30709/HkqrLLOeT  
-Intersection of Two Linked Lists:https://hackmd.io/@bruce30709/rk3lW9Ix6  
-Excel Sheet Column Number: https://hackmd.io/@bruce30709/BkbzDOVgp  
-Reverse Bits: https://hackmd.io/@bruce30709/S1NAIVyx6  
-Number of 1 Bits: https://hackmd.io/@bruce30709/SkoaSNkx6  
-Merge Two Sorted Lists: https://hackmd.io/@bruce30709/HkHDsoosh  
-Reverse Linked List:https://hackmd.io/@bruce30709/SJiLZ1k1t  
-[Contains Duplicate](https://hackmd.io/@bruce30709/SyuIE070\_)  
-Palindrome Linked List:https://hackmd.io/@bruce30709/BJWo6QTp_  
-Delete Node in a Linked List:https://hackmd.io/@bruce30709/BksRZ126O  
-Valid Anagram:https://hackmd.io/@bruce30709/SkE14GEad  
-Missing Number:https://hackmd.io/@bruce30709/B1dnfZ2h_  
-Move Zeroes:https://hackmd.io/@bruce30709/rJ7t0rC-d  
-Power of Three:https://hackmd.io/@bruce30709/HJun8SIxO  
-Reverse String:https://hackmd.io/@bruce30709/SJSVI5A1O  
-Fizz Buzz:https://hackmd.io/@bruce30709/rkuYkocJO  
-First Unique Character in a String:https://hackmd.io/@bruce30709/Sk8LNsck_  
-Intersection of Two Arrays II:https://hackmd.io/@bruce30709/SJBNwlnkO  
+**Easy**
+- [Missing Ranges](https://hackmd.io/@bruce30709/HkqrLLOeT)
+- [Intersection of Two Linked Lists](https://hackmd.io/@bruce30709/rk3lW9Ix6)
+- [Excel Sheet Column Number](https://hackmd.io/@bruce30709/BkbzDOVgp)
+- [Reverse Bits](https://hackmd.io/@bruce30709/S1NAIVyx6)
+- [Number of 1 Bits](https://hackmd.io/@bruce30709/SkoaSNkx6)
+- [Merge Two Sorted Lists](https://hackmd.io/@bruce30709/HkHDsoosh)
+- [Reverse Linked List](https://hackmd.io/@bruce30709/SJiLZ1k1t)
+- [Contains Duplicate](https://hackmd.io/@bruce30709/SyuIE070_)
+- [Palindrome Linked List](https://hackmd.io/@bruce30709/BJWo6QTp_)
+- [Delete Node in a Linked List](https://hackmd.io/@bruce30709/BksRZ126O)
+- [Valid Anagram](https://hackmd.io/@bruce30709/SkE14GEad)
+- [Missing Number](https://hackmd.io/@bruce30709/B1dnfZ2h_)
+- [Move Zeroes](https://hackmd.io/@bruce30709/rJ7t0rC-d)
+- [Power of Three](https://hackmd.io/@bruce30709/HJun8SIxO)
+- [Reverse String](https://hackmd.io/@bruce30709/SJSVI5A1O)
+- [Fizz Buzz](https://hackmd.io/@bruce30709/rkuYkocJO)
+- [First Unique Character in a String](https://hackmd.io/@bruce30709/Sk8LNsck_)
+- [Intersection of Two Arrays II](https://hackmd.io/@bruce30709/SJBNwlnkO)
 
-medium:  
-Min Stack:https://hackmd.io/@bruce30709/ByrtacLxT  
-Find Peak Element:https://hackmd.io/@bruce30709/SkgxOKLga  
-Fraction to Recurring Decimal:https://hackmd.io/@bruce30709/HkhEWOLga  
-Count Primes:https://hackmd.io/@bruce30709/H1giMy8yT  
-Flatten Nested List Iterator:https://hackmd.io/@bruce30709/r1CsjXvTn  
-Generate Parentheses: https://hackmd.io/@bruce30709/rJWnciiih  
-Rotate Array:https://hackmd.io/@bruce30709/HJn2IpDJF  
-House Robber:https://hackmd.io/@bruce30709/BJgFM381Y  
-Number of Islands:https://hackmd.io/@bruce30709/SyiITXryF  
-Course Schedule:https://hackmd.io/@bruce30709/rkTXuN-JY  
-Implement Trie (Prefix Tree):https://hackmd.io/@bruce30709/B1GmApkyY  
-Course Schedule II:https://hackmd.io/@bruce30709/SJyycLaRO  
-Kth Largest Element in an Array:https://hackmd.io/@bruce30709/Sy8E_JnCO  
-Basic Calculator II:https://hackmd.io/@bruce30709/SyHscJdR_  
-Kth Smallest Element in a BST:https://hackmd.io/@bruce30709/r193jqzA_  
-Lowest Common Ancestor of a Binary Tree:https://hackmd.io/@bruce30709/HkZsq306O  
-Product of Array Except Self:https://hackmd.io/@bruce30709/r1iPfn5ad  
-Search a 2D Matrix II:https://hackmd.io/@bruce30709/rk7RWIFaO  
-Flatten 2D Vector:https://hackmd.io/@bruce30709/ryBf6ubTO  
-Meeting Rooms II:https://hackmd.io/@bruce30709/BJ9maelTu  
-Wiggle Sort II:https://hackmd.io/@bruce30709/HyJdbdNVd  
-Find the Celebrity:https://hackmd.io/@bruce30709/S1KlpXUG_  
-Perfect Squares:https://hackmd.io/@bruce30709/BJHYMjkGd  
-Inorder Successor in BST:https://hackmd.io/@bruce30709/Sk1ltSRb_  
-Find the Duplicate Number:https://hackmd.io/@bruce30709/S1tKcXTbd  
-Game of Life:https://hackmd.io/@bruce30709/r1mzlisbd  
-Longest Increasing Subsequence:https://hackmd.io/@bruce30709/rk0mxUYxd  
-Coin Change:https://hackmd.io/@bruce30709/SkDu61Oeu  
-Odd Even Linked List:https://hackmd.io/@bruce30709/SJxHmqIxO  
-Increasing Triplet Subsequence:https://hackmd.io/@bruce30709/ByLh5QWxd  
-Longest Substring with At Most K Distinct Characters:https://hackmd.io/@bruce30709/HJxZ0ggeu  
-Top K Frequent Elements:https://hackmd.io/@bruce30709/ry40-96Ju  
-Sum of Two Integers:https://hackmd.io/@bruce30709/Skkdz8aJd  
-4Sum II:https://hackmd.io/@bruce30709/SJOD5c9Ju  
-Longest Substring with At Least K Repeating Characters:https://hackmd.io/@bruce30709/SJdQGj5ku  
-Shuffle an Array:https://hackmd.io/@bruce30709/S1lKEs5J_  
-Insert Delete GetRandom:https://hackmd.io/@bruce30709/HygG7n51O  
-Kth Smallest Element in a Sorted Matrix:https://hackmd.io/@bruce30709/S17MXVnyu  
+**Medium**
+- [Min Stack](https://hackmd.io/@bruce30709/ByrtacLxT)
+- [Find Peak Element](https://hackmd.io/@bruce30709/SkgxOKLga)
+- [Fraction to Recurring Decimal](https://hackmd.io/@bruce30709/HkhEWOLga)
+- [Count Primes](https://hackmd.io/@bruce30709/H1giMy8yT)
+- [Flatten Nested List Iterator](https://hackmd.io/@bruce30709/r1CsjXvTn)
+- [Generate Parentheses](https://hackmd.io/@bruce30709/rJWnciiih)
+- [Rotate Array](https://hackmd.io/@bruce30709/HJn2IpDJF)
+- [House Robber](https://hackmd.io/@bruce30709/BJgFM381Y)
+- [Number of Islands](https://hackmd.io/@bruce30709/SyiITXryF)
+- [Course Schedule](https://hackmd.io/@bruce30709/rkTXuN-JY)
+- [Implement Trie (Prefix Tree)](https://hackmd.io/@bruce30709/B1GmApkyY)
+- [Course Schedule II](https://hackmd.io/@bruce30709/SJyycLaRO)
+- [Kth Largest Element in an Array](https://hackmd.io/@bruce30709/Sy8E_JnCO)
+- [Basic Calculator II](https://hackmd.io/@bruce30709/SyHscJdR_)
+- [Kth Smallest Element in a BST](https://hackmd.io/@bruce30709/r193jqzA_)
+- [Lowest Common Ancestor of a Binary Tree](https://hackmd.io/@bruce30709/HkZsq306O)
+- [Product of Array Except Self](https://hackmd.io/@bruce30709/r1iPfn5ad)
+- [Search a 2D Matrix II](https://hackmd.io/@bruce30709/rk7RWIFaO)
+- [Flatten 2D Vector](https://hackmd.io/@bruce30709/ryBf6ubTO)
+- [Meeting Rooms II](https://hackmd.io/@bruce30709/BJ9maelTu)
+- [Wiggle Sort II](https://hackmd.io/@bruce30709/HyJdbdNVd)
+- [Find the Celebrity](https://hackmd.io/@bruce30709/S1KlpXUG_)
+- [Perfect Squares](https://hackmd.io/@bruce30709/BJHYMjkGd)
+- [Inorder Successor in BST](https://hackmd.io/@bruce30709/Sk1ltSRb_)
+- [Find the Duplicate Number](https://hackmd.io/@bruce30709/S1tKcXTbd)
+- [Game of Life](https://hackmd.io/@bruce30709/r1mzlisbd)
+- [Longest Increasing Subsequence](https://hackmd.io/@bruce30709/rk0mxUYxd)
+- [Coin Change](https://hackmd.io/@bruce30709/SkDu61Oeu)
+- [Odd Even Linked List](https://hackmd.io/@bruce30709/SJxHmqIxO)
+- [Increasing Triplet Subsequence](https://hackmd.io/@bruce30709/ByLh5QWxd)
+- [Longest Substring with At Most K Distinct Characters](https://hackmd.io/@bruce30709/HJxZ0ggeu)
+- [Top K Frequent Elements](https://hackmd.io/@bruce30709/ry40-96Ju)
+- [Sum of Two Integers](https://hackmd.io/@bruce30709/Skkdz8aJd)
+- [4Sum II](https://hackmd.io/@bruce30709/SJOD5c9Ju)
+- [Longest Substring with At Least K Repeating Characters](https://hackmd.io/@bruce30709/SJdQGj5ku)
+- [Shuffle an Array](https://hackmd.io/@bruce30709/S1lKEs5J_)
+- [Insert Delete GetRandom](https://hackmd.io/@bruce30709/HygG7n51O)
+- [Kth Smallest Element in a Sorted Matrix](https://hackmd.io/@bruce30709/S17MXVnyu)
 
-hard:  
-Count of Smaller Numbers After Self:https://hackmd.io/@bruce30709/HJ5td6GaO  
-Find Median from Data Stream:https://hackmd.io/@bruce30709/HJIdFLqb_  
-Serialize and Deserialize Binary Tree:https://hackmd.io/@bruce30709/rJN5PTcxu  
-Range Sum Query 2D - Mutable:https://hackmd.io/@bruce30709/B1bdhGFlO  
-Longest Increasing Path in a Matrix:https://hackmd.io/@bruce30709/Bk4Q94rxd  
+**Hard**
+- [Count of Smaller Numbers After Self](https://hackmd.io/@bruce30709/HJ5td6GaO)
+- [Find Median from Data Stream](https://hackmd.io/@bruce30709/HJIdFLqb_)
+- [Serialize and Deserialize Binary Tree](https://hackmd.io/@bruce30709/rJN5PTcxu)
+- [Range Sum Query 2D - Mutable](https://hackmd.io/@bruce30709/B1bdhGFlO)
+- [Longest Increasing Path in a Matrix](https://hackmd.io/@bruce30709/Bk4Q94rxd)
