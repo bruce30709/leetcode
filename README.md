@@ -10,7 +10,7 @@ Reverse Bits: https://hackmd.io/@bruce30709/S1NAIVyx6
 Number of 1 Bits: https://hackmd.io/@bruce30709/SkoaSNkx6  
 Merge Two Sorted Lists: https://hackmd.io/@bruce30709/HkHDsoosh  
 Reverse Linked List:https://hackmd.io/@bruce30709/SJiLZ1k1t  
-Contains Duplicate:https://hackmd.io/@bruce30709/SyuIE070_  
+Contains Duplicate:https://hackmd.io/@bruce30709/SyuIE070\_  
 Palindrome Linked List:https://hackmd.io/@bruce30709/BJWo6QTp_  
 Delete Node in a Linked List:https://hackmd.io/@bruce30709/BksRZ126O  
 Valid Anagram:https://hackmd.io/@bruce30709/SkE14GEad  
