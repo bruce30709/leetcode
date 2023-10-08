@@ -1,8 +1,27 @@
 **LeetCode Solutions**
 
-[Easy](#Easy)
-[Medium](#Medium)
-[Hard ](#Hard)
+## Table of Contents
+- [Introduction](#introduction)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Introduction
+This is the introduction section of your README.
+
+## Installation
+Information about how to install your project goes here.
+
+## Usage
+Guidelines on how to use your project can be found in this section.
+
+## Contributing
+Details about how others can contribute to your project.
+
+## License
+Information about the license of your project.
+
 
 #Easy
 - [Missing Ranges](https://hackmd.io/@bruce30709/HkqrLLOeT)
