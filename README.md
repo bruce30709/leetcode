@@ -1,5 +1,4 @@
 # LeetCode Solutions
-==
 ## Contents
 - [Easy](#Easy)
 - [Medium](#Medium)
