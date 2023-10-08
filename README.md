@@ -1,8 +1,8 @@
 **LeetCode Solutions**
 
-[Easy Problems](#easy-problems)
-[Medium Problems](#medium-problems)
-[Hard Problems](#hard-problems)
+[Easy](#easy)
+[Medium](#medium)
+[Hard ](#hard)
 
 **Easy**
 - [Missing Ranges](https://hackmd.io/@bruce30709/HkqrLLOeT)
