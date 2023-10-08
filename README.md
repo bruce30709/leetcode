@@ -24,7 +24,7 @@
 - [First Unique Character in a String](https://hackmd.io/@bruce30709/Sk8LNsck_)
 - [Intersection of Two Arrays II](https://hackmd.io/@bruce30709/SJBNwlnkO)
 
-**Medium**
+**Medium**(#Medium)
 - [Min Stack](https://hackmd.io/@bruce30709/ByrtacLxT)
 - [Find Peak Element](https://hackmd.io/@bruce30709/SkgxOKLga)
 - [Fraction to Recurring Decimal](https://hackmd.io/@bruce30709/HkhEWOLga)
