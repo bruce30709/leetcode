@@ -1,29 +1,11 @@
 **LeetCode Solutions**
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+## Contents
+- [Easy](#Easy)
+- [Medium](#Medium)
+- [Hard](#Hard)
 
-## Introduction
-This is the introduction section of your README.
-
-## Installation
-Information about how to install your project goes here.
-
-## Usage
-Guidelines on how to use your project can be found in this section.
-
-## Contributing
-Details about how others can contribute to your project.
-
-## License
-Information about the license of your project.
-
-
-#Easy
+# Easy
 - [Missing Ranges](https://hackmd.io/@bruce30709/HkqrLLOeT)
 - [Intersection of Two Linked Lists](https://hackmd.io/@bruce30709/rk3lW9Ix6)
 - [Excel Sheet Column Number](https://hackmd.io/@bruce30709/BkbzDOVgp)
@@ -43,7 +25,7 @@ Information about the license of your project.
 - [First Unique Character in a String](https://hackmd.io/@bruce30709/Sk8LNsck_)
 - [Intersection of Two Arrays II](https://hackmd.io/@bruce30709/SJBNwlnkO)
 
-#Medium
+# Medium
 - [Min Stack](https://hackmd.io/@bruce30709/ByrtacLxT)
 - [Find Peak Element](https://hackmd.io/@bruce30709/SkgxOKLga)
 - [Fraction to Recurring Decimal](https://hackmd.io/@bruce30709/HkhEWOLga)
@@ -83,7 +65,7 @@ Information about the license of your project.
 - [Insert Delete GetRandom](https://hackmd.io/@bruce30709/HygG7n51O)
 - [Kth Smallest Element in a Sorted Matrix](https://hackmd.io/@bruce30709/S17MXVnyu)
 
-#Hard
+# Hard
 - [Count of Smaller Numbers After Self](https://hackmd.io/@bruce30709/HJ5td6GaO)
 - [Find Median from Data Stream](https://hackmd.io/@bruce30709/HJIdFLqb_)
 - [Serialize and Deserialize Binary Tree](https://hackmd.io/@bruce30709/rJN5PTcxu)
