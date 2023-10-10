@@ -65,6 +65,7 @@
 - [Kth Smallest Element in a Sorted Matrix](https://hackmd.io/@bruce30709/S17MXVnyu)
 
 ## Hard
+- [Merge k Sorted Lists](https://hackmd.io/@bruce30709/BkRKUdf-6)
 - [Median of Two Sorted Arrays](https://hackmd.io/@bruce30709/Syih_pJb6)
 - [Count of Smaller Numbers After Self](https://hackmd.io/@bruce30709/HJ5td6GaO)
 - [Find Median from Data Stream](https://hackmd.io/@bruce30709/HJIdFLqb_)
