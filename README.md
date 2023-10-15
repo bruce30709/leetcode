@@ -25,6 +25,8 @@
 - [Intersection of Two Arrays II](https://hackmd.io/@bruce30709/SJBNwlnkO)
 
 ## Medium
+- [Permutation](https://hackmd.io/@bruce30709/BJlZDUt-T)
+- [Next Permutation](https://hackmd.io/@bruce30709/H1HwUIY-a)
 - [Swap Nodes in Pairs](https://hackmd.io/@bruce30709/By0tBkQ-p)
 - [Min Stack](https://hackmd.io/@bruce30709/ByrtacLxT)
 - [Find Peak Element](https://hackmd.io/@bruce30709/SkgxOKLga)
