@@ -25,6 +25,7 @@
 - [Intersection of Two Arrays II](https://hackmd.io/@bruce30709/SJBNwlnkO)
 
 ## Medium
+- [Sort an Array](https://hackmd.io/@bruce30709/H1jw-TA-6)
 - [Permutation](https://hackmd.io/@bruce30709/BJlZDUt-T)
 - [Next Permutation](https://hackmd.io/@bruce30709/H1HwUIY-a)
 - [Swap Nodes in Pairs](https://hackmd.io/@bruce30709/By0tBkQ-p)
@@ -68,6 +69,7 @@
 - [Kth Smallest Element in a Sorted Matrix](https://hackmd.io/@bruce30709/S17MXVnyu)
 
 ## Hard
+- [Longest Valid Parentheses](https://hackmd.io/@bruce30709/SySFqbhbT)
 - [Reverse Nodes in k-Group](https://hackmd.io/@bruce30709/rylf18FSWT)
 - [Merge k Sorted Lists](https://hackmd.io/@bruce30709/BkRKUdf-6)
 - [Median of Two Sorted Arrays](https://hackmd.io/@bruce30709/Syih_pJb6)
