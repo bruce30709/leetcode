@@ -5,6 +5,7 @@
 - [Hard](#Hard)
 
 ## Easy
+-[Search Insert Position](https://hackmd.io/@bruce30709/rJ4P0LZG6)
 - [Missing Ranges](https://hackmd.io/@bruce30709/HkqrLLOeT)
 - [Intersection of Two Linked Lists](https://hackmd.io/@bruce30709/rk3lW9Ix6)
 - [Excel Sheet Column Number](https://hackmd.io/@bruce30709/BkbzDOVgp)
