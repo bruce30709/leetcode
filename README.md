@@ -26,6 +26,8 @@
 - [Intersection of Two Arrays II](https://hackmd.io/@bruce30709/SJBNwlnkO)
 
 ## Medium
+- [Jump Game II](https://hackmd.io/@bruce30709/B1Q4-nUMa)
+- [Combination Sum](https://hackmd.io/@bruce30709/HyRwS1Efp)
 - [Sort an Array](https://hackmd.io/@bruce30709/H1jw-TA-6)
 - [Permutation](https://hackmd.io/@bruce30709/BJlZDUt-T)
 - [Next Permutation](https://hackmd.io/@bruce30709/H1HwUIY-a)
@@ -70,6 +72,8 @@
 - [Kth Smallest Element in a Sorted Matrix](https://hackmd.io/@bruce30709/S17MXVnyu)
 
 ## Hard
+- [Trapping Rain Water](https://hackmd.io/@bruce30709/S1IpUHrzp)
+- [First Missing Positive](https://hackmd.io/@bruce30709/S1P2BSHM6)
 - [Longest Valid Parentheses](https://hackmd.io/@bruce30709/SySFqbhbT)
 - [Reverse Nodes in k-Group](https://hackmd.io/@bruce30709/rylf18FSWT)
 - [Merge k Sorted Lists](https://hackmd.io/@bruce30709/BkRKUdf-6)
