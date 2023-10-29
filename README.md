@@ -72,6 +72,7 @@
 - [Kth Smallest Element in a Sorted Matrix](https://hackmd.io/@bruce30709/S17MXVnyu)
 
 ## Hard
+- [N-Queens](https://hackmd.io/@bruce30709/Byc1XAsMp)
 - [Trapping Rain Water](https://hackmd.io/@bruce30709/S1IpUHrzp)
 - [First Missing Positive](https://hackmd.io/@bruce30709/S1P2BSHM6)
 - [Longest Valid Parentheses](https://hackmd.io/@bruce30709/SySFqbhbT)
