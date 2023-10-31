@@ -26,6 +26,7 @@
 - [Intersection of Two Arrays II](https://hackmd.io/@bruce30709/SJBNwlnkO)
 
 ## Medium
+- [Minimum Path Sum](https://hackmd.io/@bruce30709/SyUIJ5AGp)
 - [Jump Game II](https://hackmd.io/@bruce30709/B1Q4-nUMa)
 - [Combination Sum](https://hackmd.io/@bruce30709/HyRwS1Efp)
 - [Sort an Array](https://hackmd.io/@bruce30709/H1jw-TA-6)
