@@ -26,6 +26,7 @@
 - [Intersection of Two Arrays II](https://hackmd.io/@bruce30709/SJBNwlnkO)
 
 ## Medium
+- [Search a 2D Matrix](https://hackmd.io/@bruce30709/r1Mp9rWX6)
 - [Edit Distance](https://hackmd.io/@bruce30709/rJ7jORkX6)
 - [Minimum Path Sum](https://hackmd.io/@bruce30709/SyUIJ5AGp)
 - [Jump Game II](https://hackmd.io/@bruce30709/B1Q4-nUMa)
