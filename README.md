@@ -26,6 +26,7 @@
 - [Intersection of Two Arrays II](https://hackmd.io/@bruce30709/SJBNwlnkO)
 
 ## Medium
+- [Find Minimum in Rotated Sorted Array](https://hackmd.io/@bruce30709/H1QRSbCX6)
 - [Search a 2D Matrix](https://hackmd.io/@bruce30709/r1Mp9rWX6)
 - [Edit Distance](https://hackmd.io/@bruce30709/rJ7jORkX6)
 - [Minimum Path Sum](https://hackmd.io/@bruce30709/SyUIJ5AGp)
