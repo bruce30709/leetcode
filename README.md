@@ -27,6 +27,7 @@
 - [Intersection of Two Arrays II](https://hackmd.io/@bruce30709/SJBNwlnkO)
 
 ## Medium
+- [Decode String](https://hackmd.io/@bruce30709/ryNWzhX4p)
 - [Binary Tree Right Side View](https://hackmd.io/@bruce30709/ByJDHDA76)
 - [Find Minimum in Rotated Sorted Array](https://hackmd.io/@bruce30709/H1QRSbCX6)
 - [Flatten Binary Tree to Linked List](https://hackmd.io/@bruce30709/BJens3NXa)
