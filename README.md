@@ -27,6 +27,8 @@
 - [Intersection of Two Arrays II](https://hackmd.io/@bruce30709/SJBNwlnkO)
 
 ## Medium
+- [Partition Equal Subset Sum](https://hackmd.io/@bruce30709/SJsVBii4T)
+- [Find All Anagrams in a String](https://hackmd.io/@bruce30709/HJblroiN6)
 - [Decode String](https://hackmd.io/@bruce30709/ryNWzhX4p)
 - [Binary Tree Right Side View](https://hackmd.io/@bruce30709/ByJDHDA76)
 - [Find Minimum in Rotated Sorted Array](https://hackmd.io/@bruce30709/H1QRSbCX6)
