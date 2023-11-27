@@ -5,6 +5,7 @@
 - [Hard](#Hard)
 
 ## Easy
+- [Diameter of Binary Tree](https://hackmd.io/@bruce30709/SkmCWQzHa)
 - [Invert Binary Tree](https://hackmd.io/@bruce30709/rkhcYlbVa)
 - [Search Insert Position](https://hackmd.io/@bruce30709/rJ4P0LZG6)
 - [Missing Ranges](https://hackmd.io/@bruce30709/HkqrLLOeT)
