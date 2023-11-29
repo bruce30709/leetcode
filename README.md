@@ -28,6 +28,7 @@
 - [Intersection of Two Arrays II](https://hackmd.io/@bruce30709/SJBNwlnkO)
 
 ## Medium
+- [Subarray Sum Equals K](https://hackmd.io/@bruce30709/Sk8-zT4Hp)
 - [Partition Equal Subset Sum](https://hackmd.io/@bruce30709/SJsVBii4T)
 - [Find All Anagrams in a String](https://hackmd.io/@bruce30709/HJblroiN6)
 - [Decode String](https://hackmd.io/@bruce30709/ryNWzhX4p)
