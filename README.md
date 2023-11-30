@@ -5,6 +5,7 @@
 - [Hard](#Hard)
 
 ## Easy
+- [Binary Search](https://hackmd.io/@bruce30709/ByPI1Q8r6)
 - [Diameter of Binary Tree](https://hackmd.io/@bruce30709/SkmCWQzHa)
 - [Invert Binary Tree](https://hackmd.io/@bruce30709/rkhcYlbVa)
 - [Search Insert Position](https://hackmd.io/@bruce30709/rJ4P0LZG6)
@@ -28,6 +29,7 @@
 - [Intersection of Two Arrays II](https://hackmd.io/@bruce30709/SJBNwlnkO)
 
 ## Medium
+- [Permutation in String](https://hackmd.io/@bruce30709/B1HDKMUHT)
 - [Subarray Sum Equals K](https://hackmd.io/@bruce30709/Sk8-zT4Hp)
 - [Partition Equal Subset Sum](https://hackmd.io/@bruce30709/SJsVBii4T)
 - [Find All Anagrams in a String](https://hackmd.io/@bruce30709/HJblroiN6)
