@@ -29,6 +29,7 @@
 - [Intersection of Two Arrays II](https://hackmd.io/@bruce30709/SJBNwlnkO)
 
 ## Medium
+- [Rotting Oranges](https://hackmd.io/@bruce30709/rJrUOCMU6)
 - [Daily Temperatures](https://hackmd.io/@bruce30709/HycxF8jS6)
 - [Permutation in String](https://hackmd.io/@bruce30709/B1HDKMUHT)
 - [Subarray Sum Equals K](https://hackmd.io/@bruce30709/Sk8-zT4Hp)
