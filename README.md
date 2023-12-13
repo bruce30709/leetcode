@@ -5,6 +5,7 @@
 - [Hard](#Hard)
 
 ## Easy
+- [Valid Palindrome](https://hackmd.io/@bruce30709/S15MiVwL6)
 - [Merge Sorted Array](https://hackmd.io/@bruce30709/rJBf_XDL6)
 - [Binary Search](https://hackmd.io/@bruce30709/ByPI1Q8r6)
 - [Diameter of Binary Tree](https://hackmd.io/@bruce30709/SkmCWQzHa)
