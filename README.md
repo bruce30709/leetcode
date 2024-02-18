@@ -31,6 +31,7 @@
 - [Intersection of Two Arrays II](https://hackmd.io/@bruce30709/SJBNwlnkO)
 
 ## Medium
+- [Furthest Building You Can Reach](https://hackmd.io/@bruce30709/HyEwM91np)
 - [Longest Common Subsequence](https://hackmd.io/@bruce30709/HkEol54IT)
 - [Rotting Oranges](https://hackmd.io/@bruce30709/rJrUOCMU6)
 - [Daily Temperatures](https://hackmd.io/@bruce30709/HycxF8jS6)
