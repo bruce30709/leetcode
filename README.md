@@ -5,11 +5,6 @@
 - [Hard](#Hard)
 
 ## Easy
-## Easy
-- <a href="https://hackmd.io/@bruce30709/S15MiVwL6" style="color: blue;" onmouseover="this.style.color='orange';" onmouseout="this.style.color='blue';">Valid Palindrome</a>
-- <a href="https://hackmd.io/@bruce30709/rJBf_XDL6" style="color: blue;" onmouseover="this.style.color='orange';" onmouseout="this.style.color='blue';">Merge Sorted Array</a>
-- <a href="https://hackmd.io/@bruce30709/ByPI1Q8r6" style="color: blue;" onmouseover="this.style.color='orange';" onmouseout="this.style.color='blue';">Binary Search</a>
-- <a href="https://hackmd.io/@bruce30709/SkmCWQzHa" style="color: blue;" onmouseover="this.style.color='orange';" onmouseout="this.style.color='blue';">Diameter of Binary Tree</a>
 - [Invert Binary Tree](https://hackmd.io/@bruce30709/rkhcYlbVa)
 - [Search Insert Position](https://hackmd.io/@bruce30709/rJ4P0LZG6)
 - [Missing Ranges](https://hackmd.io/@bruce30709/HkqrLLOeT)
